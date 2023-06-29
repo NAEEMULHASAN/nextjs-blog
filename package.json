@@ -1,0 +1,19 @@
+{
+  "name": "nextjs-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "dev index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NAEEMULHASAN/nextjs-blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NAEEMULHASAN/nextjs-blog/issues"
+  },
+  "homepage": "https://github.com/NAEEMULHASAN/nextjs-blog#readme"
+}
